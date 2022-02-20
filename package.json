@@ -1,0 +1,22 @@
+{
+  "name": "@mhy86/shadowizard",
+  "version": "1.0.0",
+  "description": "Add awesome shadows for the non designer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emhayusa/shadowizard.git"
+  },
+  "keywords": [
+    "shadows"
+  ],
+  "author": "M. H. Yusa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emhayusa/shadowizard/issues"
+  },
+  "homepage": "https://github.com/emhayusa/shadowizard#readme"
+}
